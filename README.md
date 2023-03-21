@@ -1,3 +1,5 @@
+![secret-handshake](https://user-images.githubusercontent.com/44240533/226491414-4844d2e6-e4bb-4fac-852f-1c913d0ff9bf.svg)
+
 # Secret Handshake
 
 Welcome to Secret Handshake on Exercism's Java Track.
